@@ -42,7 +42,7 @@
     "BOT_NAME" : {
 
       "description":"put A name for your bot",
-      "value":"GIFTED-MD",
+      "value":"rasta",
       "required":false
 
     } ,
